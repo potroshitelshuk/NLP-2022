@@ -3,7 +3,14 @@ gensim==4.2.0
 bokeh==2.3.2
 tqdm==4.62.3
 fasttext==0.9.2
-torch==1.9.0
-torchtext==0.10.0
+torch
+torchtext
 pymorphy2==0.9.1
-xgboost==1.5.1
+pandas
+numpy
+simpletransformers
+contractions
+matplotlib
+openpyxl
+transformers
+datasets
